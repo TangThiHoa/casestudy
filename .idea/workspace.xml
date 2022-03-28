@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b14bc55-b39d-4b36-abdd-71244668fb81" name="Changes" comment="" />
+    <list default="true" id="6b14bc55-b39d-4b36-abdd-71244668fb81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -52,7 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1648023515786</updated>
       <workItem from="1648023516861" duration="67518000" />
-      <workItem from="1648198805121" duration="3343000" />
+      <workItem from="1648198805121" duration="5824000" />
+      <workItem from="1648216592850" duration="12058000" />
+      <workItem from="1648285167062" duration="11786000" />
     </task>
     <servers />
   </component>
