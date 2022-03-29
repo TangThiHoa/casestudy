@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b14bc55-b39d-4b36-abdd-71244668fb81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="47a9c551-21fe-4c14-91d8-8a3d0cd32d72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wellcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -25,42 +25,27 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26mKqqh6PxCnSIbKFxwLi9Gt1hm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2750LJxKD6aug4A57kEeEJNuuRA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\case study MD1" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b14bc55-b39d-4b36-abdd-71244668fb81" name="Changes" comment="" />
-      <created>1648023515786</created>
+      <changelist id="47a9c551-21fe-4c14-91d8-8a3d0cd32d72" name="Changes" comment="" />
+      <created>1648594582433</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648023515786</updated>
-      <workItem from="1648023516861" duration="67518000" />
-      <workItem from="1648198805121" duration="5824000" />
-      <workItem from="1648216592850" duration="12058000" />
-      <workItem from="1648285167062" duration="15774000" />
-      <workItem from="1648456417108" duration="595000" />
-      <workItem from="1648458321740" duration="1189000" />
-      <workItem from="1648486064021" duration="5585000" />
+      <updated>1648594582433</updated>
+      <workItem from="1648594583630" duration="331000" />
     </task>
     <servers />
   </component>
