@@ -103,6 +103,7 @@ function addItemToCart(title, price, img) {
         updatecart()
     })
 }
+
 // update cart
 function updatecart() {
     var cart_item = document.getElementsByClassName("cart-items")[0];
@@ -116,7 +117,7 @@ function updatecart() {
         var quantity = quantity_item.value
         total = total + (price * quantity)
     }
-    document.getElementsByClassName("cart-total-price")[0].innerText = total + 'VNĐ'
+    document.getElementsByClassName("cart-total-price")[0].innerText = total + '.000 VNĐ'
 }
 
 // menu mobile
